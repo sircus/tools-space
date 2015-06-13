@@ -13,7 +13,7 @@
 > use npm:
 
 ```bash
-$ npm install sircus-tools-space && npm install sircus-global-proprety
+$ npm install sircus-tools-space sircus-global-proprety
 ```
 
 ## Usage
