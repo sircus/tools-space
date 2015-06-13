@@ -30,7 +30,7 @@ input.css
 
 input.scss
 ```css
-@import "node_modules/sircus-tools-overflow-responsive/converted";
+@import "node_modules/sircus-global-property/converted";
 @import "node_modules/sircus-tools-space/converted";
 ```
 
