@@ -2,23 +2,21 @@
 
 [![npm version](https://img.shields.io/npm/v/sircus-tools-space.svg?style=flat)](https://www.npmjs.com/package/sircus-tools-space)
 
-> A spacing tools Module of Sircus.
-
 ## Dependencies
-- [sircus-global-proprety](https://github.com/sircus/global-property)
+- [sircus-global-property](https://github.com/sircus/global-property)
 
 
 ## Installation
 
-> use npm:
+> npm:
 
 ```bash
-$ npm install sircus-tools-space sircus-global-proprety
+$ npm install sircus-tools-space sircus-global-property
 ```
 
 ## Usage
 
-> use cssnext:
+> cssnext:
 
 input.css
 ```css
@@ -26,12 +24,12 @@ input.css
 @import "sircus-global-property";
 ```
 
-> use sass:
+> sass:
 
 input.scss
-```css
-@import "node_modules/sircus-global-property/converted";
-@import "node_modules/sircus-tools-space/converted";
+```scss
+@import "./node_modules/sircus-global-property/converted";
+@import "./node_modules/sircus-tools-space/converted";
 ```
 
 
